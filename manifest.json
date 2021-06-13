@@ -32,5 +32,11 @@
     "*://api.search.nicovideo.jp/api/v2/video/contents/search",
     "tabs",
     "*://www.nicovideo.jp/watch/*"
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "danime-another-comment@mkihr-ojisan.com",
+      "strict_min_version": "59.0"
+    }
+  }
 }
